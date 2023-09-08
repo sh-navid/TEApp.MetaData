@@ -1,19 +1,25 @@
 # TEApp.MetaData
 ## Apps
 ### New
-- android | game | puzzle | Robomotor | 4 | null | null
-- android | app  | ar     | Decor     | 3 | null | null
-- android | app  | 3d     | Room      | 4 | null | null
-- desktop | app  | tools  | Capture   | 4 | null | null
+- pwa     | app  | 3d       | Room      | 1 | null | null
+- android | game | puzzle   | Robomotor | 4 | null | null
+- android | game | puzzle   | OX        | 4 | null | null
+- android | app  | graphics | Rangineh  | 4 | null | null
+- android | app  | ar       | Decor     | 3 | null | null
+- desktop | app  | tools    | Capture   | 2 | null | null
 
 ### Popular
-- android | game | puzzle | Robomotor | 4 | null | null
-- android | app  | ar     | Decor     | 3 | null | null
-- android | app  | 3d     | Room      | 4 | null | null
-- desktop | app  | tools  | Capture   | 4 | null | null
+- pwa     | app  | 3d       | Room      | 1 | null | null
+- android | game | puzzle   | Robomotor | 4 | null | null
+- android | game | puzzle   | OX        | 4 | null | null
+- android | app  | graphics | Rangineh  | 4 | null | null
+- android | app  | ar       | Decor     | 3 | null | null
+- desktop | app  | tools    | Capture   | 2 | null | null
 
 ### Random
-- android | game | puzzle | Robomotor | 4 | null | null
-- android | app  | ar     | Decor     | 3 | null | null
-- android | app  | 3d     | Room      | 4 | null | null
-- desktop | app  | tools  | Capture   | 4 | null | null
+- pwa     | app  | 3d       | Room      | 1 | null | null
+- android | game | puzzle   | Robomotor | 4 | null | null
+- android | game | puzzle   | OX        | 4 | null | null
+- android | app  | graphics | Rangineh  | 4 | null | null
+- android | app  | ar       | Decor     | 3 | null | null
+- desktop | app  | tools    | Capture   | 2 | null | null
