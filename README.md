@@ -1,6 +1,7 @@
 # TEApp.MetaData
 ## Apps
 ### New
+- platform          | type | category | name      | rate| link | icon
 - pwa               | app  | 3d       | Room      | 1 | null | null
 - android           | game | puzzle   | Robomotor | 4 | null | null
 - android           | game | puzzle   | OX        | 4 | null | null
