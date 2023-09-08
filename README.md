@@ -1,7 +1,7 @@
 # TEApp.MetaData
 ## Apps
 ### New
-~ platform          | type | category | name      | rate | version | link | icon
++ platform          | type | category | name      | rate | version | link | icon
 - pwa               | app  | 3d       | Room      | 1    | 14.1.1  | null | null
 - android           | game | puzzle   | Robomotor | 4    | 13.2.2  | null | null
 - android           | game | puzzle   | OX        | 4    | 11.0.1  | null | null
@@ -10,7 +10,7 @@
 - windows,linux,mac | app  | tools    | Capture   | 2    | alpha   | null | null
 
 ### Popular
-~ platform          | type | category | name      | rate | version | link | icon
++ platform          | type | category | name      | rate | version | link | icon
 - pwa               | app  | 3d       | Room      | 1    | 14.1.1  | null | null
 - android           | game | puzzle   | Robomotor | 4    | 13.2.2  | null | null
 - android           | game | puzzle   | OX        | 4    | 11.0.1  | null | null
@@ -19,7 +19,7 @@
 - windows,linux,mac | app  | tools    | Capture   | 2    | alpha   | null | null
 
 ### Random
-~ platform          | type | category | name      | rate | version | link | icon
++ platform          | type | category | name      | rate | version | link | icon
 - pwa               | app  | 3d       | Room      | 1    | 14.1.1  | null | null
 - android           | game | puzzle   | Robomotor | 4    | 13.2.2  | null | null
 - android           | game | puzzle   | OX        | 4    | 11.0.1  | null | null
