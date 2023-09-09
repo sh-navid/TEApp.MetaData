@@ -1,7 +1,7 @@
-- android           | app  | tools     | Art          | Harmonic | 4 | 1.0.0 | null
+- android           | app  | graphics  | Art          | Harmonic | 4 | 1.0.0 | null
 - android           | app  | tools     | BlackBook    | Harmonic | 4 | 1.0.0 | null
 - android           | app  | tools     | DigitalTools | NSH      | 4 | 1.0.0 | null
-- android           | app  | tools     | SNS          | Harmonic | 4 | 1.0.0 | null
+- android           | app  | Medical   | SNS          | Harmonic | 4 | 1.0.0 | null
 - android           | app  | tools     | TryOn        | Harmonic | 4 | 1.0.0 | null
 - android           | app  | hobby     | NiniName     | NSH      | 3 | 1.0.0 | null
 - android           | game | arcade    | Fell         | NSH      | 3 | 1.0.0 | null
